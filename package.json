@@ -1,0 +1,42 @@
+{
+  "name": "joonas-portfolio-v1",
+  "version": "0.1.0",
+  "author": "Siim",
+  "license": "MIT",
+  "homepage": "https://joonasnilp.ee/",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.1.1",
+    "materialize-css": "^0.100.2",
+    "npm": "^6.1.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-fontawesome": "^1.6.1",
+    "react-image-gallery": "^0.8.7",
+    "react-images": "^0.5.17",
+    "react-materialize": "^2.2.1",
+    "react-photo-gallery": "^6.0.27",
+    "react-responsive-carousel": "^3.1.39",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-scrollspy": "^3.3.5",
+    "react-slick": "^0.23.1",
+    "reactstrap": "^6.0.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build&&gh-pages -d build"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "gh-pages": "^1.1.0"
+  }
+}
