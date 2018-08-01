@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.b2557a27.css",
-  "main.css.map": "static/css/main.b2557a27.css.map",
-  "main.js": "static/js/main.e71ddee4.js",
-  "main.js.map": "static/js/main.e71ddee4.js.map",
+  "main.css": "static/css/main.1141c5da.css",
+  "main.css.map": "static/css/main.1141c5da.css.map",
+  "main.js": "static/js/main.5a8739ee.js",
+  "main.js.map": "static/js/main.5a8739ee.js.map",
   "static/media/Montserrat-Regular.otf": "static/media/Montserrat-Regular.91696e09.otf",
   "static/media/Roboto-Bold.woff": "static/media/Roboto-Bold.eed9aab5.woff",
   "static/media/Roboto-Bold.woff2": "static/media/Roboto-Bold.c0f1e4a4.woff2",
@@ -21,7 +21,5 @@
   "static/media/insta_m.mp4": "static/media/insta_m.c1da163b.mp4",
   "static/media/instagram.svg": "static/media/instagram.b1c58ee1.svg",
   "static/media/lens.png": "static/media/lens.a9727672.png",
-  "static/media/maja.jpg": "static/media/maja.b5aa6f1d.jpg",
-  "static/media/sild.jpg": "static/media/sild.563899ca.jpg",
-  "static/media/splash.png": "static/media/splash.e4dfc268.png"
+  "static/media/youtube.svg": "static/media/youtube.f4d46a74.svg"
 }
